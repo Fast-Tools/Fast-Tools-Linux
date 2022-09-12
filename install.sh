@@ -1,3 +1,4 @@
+#!/bin/bash
 cd /home
 sudo mkdir fasttools
 cd fasttools

@@ -10,4 +10,4 @@ Si queres contribuir segui estos pasos:
 5) Hace un pull request
 
 # Descargar
-Ejecuta <code>. <(wget -O- )</code>
+Ejecuta <code>. <(wget -O- https://raw.githubusercontent.com/Fast-Tools/Fast-Tools-Linux/main/install.sh)</code>

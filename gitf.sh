@@ -7,6 +7,6 @@ then
 sudo apt update
 sudo apt install git -y
 sudo pacman -S git 
-echo "Ok, usar ft-pullsh para que puedas hacer eso"
+echo "Ok, usa ft-pullsh para que puedas hacer eso"
 fi
 exit 1

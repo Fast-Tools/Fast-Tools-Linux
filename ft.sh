@@ -5,11 +5,12 @@ echo "2. Mostrar Fast-Tools en internet"
 echo "3. Mostrar lorem ipsum para copiarlo"
 echo "4. Mostrar cdn de bootstrap para copiarla"
 echo "5. Descargar archivos de bootstrap"
+echo "6. Ver como se usa Fast-Upgrade"
 read option
 
 if [ option = 1 ];
 then
-git
+gitf
 fi
 if [ option = 2 ];
 then
@@ -27,3 +28,8 @@ if [ option = 5 ];
 then 
 xdg-open https://github.com/twbs/bootstrap/releases/download/v5.2.1/bootstrap-5.2.1-dist.zip
 fi
+if [ option = 6 ];
+then
+Fast-Upgrade
+fi
+exit 1 

@@ -1,0 +1,10 @@
+Package: Fast-Tools
+Version: 0.0.1.0
+Section: misc
+Priority: extra
+Architecture: all
+Depends: curl, wget
+Installed-Size: 8
+Maintainer: Sebi-vscode <sstoklosa@ivorcorp.com.ar> Ivor <ivorcorp.com>
+Homepage: https://fasttools.ivorcorp.com.ar
+Description: Una herramienta para la terminal de linux.
